@@ -1,6 +1,8 @@
 # sagara-mobile-msib-test
 # CuacaLusa
 
+<img src="assets/com.test.cuacalusa.jpg" alt="CuacaLusa Screenshot" width="400"/>
+
 ## Fitur Utama
 
 - Menampilkan informasi cuaca terkini berdasarkan lokasi Anda.
