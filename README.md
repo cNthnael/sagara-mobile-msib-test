@@ -12,12 +12,12 @@
 - Menampilkan ikon cuaca dan detail cuaca seperti suhu, kelembapan, dan kecepatan angin.
 - Menyediakan ramalan cuaca tipa 3 jam untuk 3 hari ke depan.
 
-## Perlu!
+## Sebelum Menjalankan
 
 Sebelum menjalankan aplikasi ini, pastikan Anda memenuhi persyaratan berikut:
 
 - **Android Studio** versi terbaru terinstal di komputer Anda.
-- **SDK Android** yang sesuai terinstal.
+- **SDK Android** yang sesuai terinstal (min. API 24).
 - **API Key OpenWeatherMap** untuk mengakses data cuaca (dapat diperoleh dengan **register** di [OpenWeatherMap](https://openweathermap.org/)).
 
 ## Cara Menjalankan
