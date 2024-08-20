@@ -12,7 +12,7 @@
 - Menampilkan ikon cuaca dan detail cuaca seperti suhu, kelembapan, dan kecepatan angin.
 - Menyediakan ramalan cuaca tipa 3 jam untuk 3 hari ke depan.
 
-## Persyaratan
+## Perlu!
 
 Sebelum menjalankan aplikasi ini, pastikan Anda memenuhi persyaratan berikut:
 
@@ -20,7 +20,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memenuhi persyaratan berikut:
 - **SDK Android** yang sesuai terinstal.
 - **API Key OpenWeatherMap** untuk mengakses data cuaca (dapat diperoleh dengan **register** di [OpenWeatherMap](https://openweathermap.org/)).
 
-## How to run
+## Cara Menjalankan
 
 1. **Clone Repository**
    Pertama, clone repositori CuacaLusa ke komputer Anda dengan menjalankan perintah berikut di terminal atau command prompt:
