@@ -39,7 +39,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memenuhi persyaratan berikut:
    - Ganti dengan API Key OpenWeatherMap Anda pada bagian `YOUR_API_KEY`
 
 4. **Sync Proyek**
-   - Klik tombol **Sync Now** di bagian atas layar Android Studio untuk menyinkronkan proyek dengan konfigurasi yang telah diperbarui.
+   - Klik **Sync Now** di bagian atas layar Android Studio untuk menyinkronkan proyek dengan konfigurasi yang telah diperbarui.
 
 5. **Jalankan Aplikasi**
    - Pilih **Run** atau tekan **Shift + F10** untuk build project dan menjalankan aplikasi di emulator atau perangkat Android yang terhubung.
