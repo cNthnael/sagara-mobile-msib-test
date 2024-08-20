@@ -15,7 +15,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memenuhi persyaratan berikut:
 
 - **Android Studio** versi terbaru terinstal di komputer Anda.
 - **SDK Android** yang sesuai terinstal.
-- **Kunci API OpenWeatherMap** untuk mengakses data cuaca (dapat diperoleh dengan mendaftar di [OpenWeatherMap](https://openweathermap.org/)).
+- **API Key OpenWeatherMap** untuk mengakses data cuaca (dapat diperoleh dengan **register** di [OpenWeatherMap](https://openweathermap.org/)).
 
 ## How to run
 
