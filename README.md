@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center;">
     <img src="assets/com.test.cuacalusa.jpg" alt="CuacaLusa Screenshot" width="400" style="margin-right: 10px;"/>
-    <img src="assets/night_com.test.cuacalusa.jpg" alt="CuacaLusa Screenshot" width="400"/>
+    <img src="assets/dark.test.cuacalusa.jpg" alt="CuacaLusa Screenshot" width="400"/>
 </div>
 
 ## Fitur Utama
