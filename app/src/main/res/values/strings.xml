@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CuacaLusa</string>
+    <string name="location">Location</string>
+    <string name="temp">00°C</string>
+    <string name="curr_weather_type">-</string>
+    <string name="curr_hum">Humidity</string>
+    <string name="curr_hum_perc">-</string>
+    <string name="curr_wind">Wind</string>
+    <string name="curr_wind_spd">- km/hr</string>
+    <string name="min_temp_fr">Min  </string>
+    <string name="max_temp_fr">Max  </string>
+    <string name="timestamp">-</string>
+    <string name="FetchData">fetching...</string>
+
+</resources>
